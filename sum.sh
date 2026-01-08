@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+echo "sum of 2 numbers by Nandish"
+=======
 echo "sum of 2 numbers"
 <<<<<<< HEAD
 echo "verion 3 "
