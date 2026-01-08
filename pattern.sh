@@ -6,4 +6,5 @@ then
 	echo "version:V1"
 else
 	echo "pattern not found"
+	echo "adding one more line"
 fi
