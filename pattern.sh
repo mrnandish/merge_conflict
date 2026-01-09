@@ -9,4 +9,5 @@ else
 	echo "pattern not found"
 	echo "adding one more line"
 	echo " pattern.sh "
+	echo" edited on jan 9"
 fi
