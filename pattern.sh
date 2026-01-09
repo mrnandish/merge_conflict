@@ -15,3 +15,6 @@ else
 	echo" edited on jan 9"
 >>>>>>> 4b706800a14e5e4d2794cc7c371773eddd986197
 fi
+
+
+echo"edited to show merging conflicts"
