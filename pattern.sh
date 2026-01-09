@@ -2,7 +2,7 @@
 grep -ilr "$1" *
 if [ $? -eq 0 ]
 then
-	echo "pattern  found nandish"
+	echo "pattern   nandish"
 	echo "version 1"
 	echo "version:V1"
 else
