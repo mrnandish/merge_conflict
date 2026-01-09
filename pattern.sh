@@ -2,7 +2,7 @@
 grep -ilr "$1" *
 if [ $? -eq 0 ]
 then
-	echo "pattern  found"
+	echo " Supriya "
 else
 	echo "pattern not found"
 fi
