@@ -1,1 +1,2 @@
-eho " new file "
+echo " new file "
+echo " testing "
