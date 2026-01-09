@@ -8,3 +8,4 @@ else
 fi
 
 echo " 09/01/2026 "
+echo " trying to push to main "
