@@ -16,5 +16,9 @@ else
 >>>>>>> 4b706800a14e5e4d2794cc7c371773eddd986197
 fi
 
+<<<<<<< HEAD
 
 echo"edited to show merging conflicts to merge main"
+=======
+echo " version3 "
+>>>>>>> 2e3a8554465f581989efc73b162be75ceb58873b
