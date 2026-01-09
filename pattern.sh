@@ -2,7 +2,7 @@
 grep -ilr "$1" *
 if [ $? -eq 0 ]
 then
-	echo "pattern   nandish"
+	echo "patter   nandish"
 	echo "version 1"
 	echo "version:V1"
 else
@@ -13,7 +13,7 @@ else
 	echo " adding new line to test "
 =======
 	echo" edited on jan 9"
->>>>>>> 4b706800a14e5e4d2794cc7c371773eddd986197
+
 fi
 
 
