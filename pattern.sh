@@ -17,4 +17,4 @@ else
 fi
 
 
-echo"edited to show merging conflicts"
+echo"edited to show merging conflicts to merge main"
