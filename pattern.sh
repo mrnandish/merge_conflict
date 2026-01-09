@@ -6,4 +6,5 @@ then
 else
 	echo "pattern not found"
 	echo "adding one more line"
+	echo " new line on 9th jan 2026"
 fi
