@@ -9,4 +9,5 @@ else
 	echo "pattern not found"
 	echo "adding one more line"
 	echo " pattern.sh "
+	echo " adding new line to test "
 fi
